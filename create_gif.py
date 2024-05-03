@@ -25,4 +25,4 @@ def make_gif(frame_folder):
                 loop=0)
     
 if __name__ == "__main__":
-    make_gif("output")
+    make_gif("output_marking")
